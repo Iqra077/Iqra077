@@ -1,6 +1,6 @@
 👋 Hi, I’m Iqra
-- I'm a Data Science Student 
-- 🌱 I’m currently learning Dta science
+- I'm a Data Science Student. 
+- 🌱 I’m currently learning Data science
 - 😄 Pronouns: she/her
 <!---
 - 📫 How to reach me ...
